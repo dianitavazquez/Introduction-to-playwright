@@ -1,0 +1,14 @@
+{
+  "name": "introduction-to-playwright",
+  "version": "1.0.0",
+  "description": "My automation project using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
